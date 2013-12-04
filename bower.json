@@ -5,8 +5,8 @@
   "private": true,
   "ignore": [
     "**/.*",
-    "spec/*",
-    "src/*",
+    "spec",
+    "src",
     "Gemfile*",
     "MIT-LICENSE",
     "package.json",
